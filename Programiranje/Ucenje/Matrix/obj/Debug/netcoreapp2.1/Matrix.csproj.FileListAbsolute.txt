@@ -1,0 +1,11 @@
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/obj/Debug/netcoreapp2.1/Matrix.csprojAssemblyReference.cache
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/obj/Debug/netcoreapp2.1/Matrix.csproj.CoreCompileInputs.cache
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/obj/Debug/netcoreapp2.1/Matrix.AssemblyInfoInputs.cache
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/obj/Debug/netcoreapp2.1/Matrix.AssemblyInfo.cs
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/bin/Debug/netcoreapp2.1/Matrix.deps.json
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/bin/Debug/netcoreapp2.1/Matrix.runtimeconfig.json
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/bin/Debug/netcoreapp2.1/Matrix.runtimeconfig.dev.json
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/bin/Debug/netcoreapp2.1/Matrix.dll
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/bin/Debug/netcoreapp2.1/Matrix.pdb
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/obj/Debug/netcoreapp2.1/Matrix.dll
+/data/Skola/Programiranje/III-razred/Programiranje/Ucenje/Matrix/obj/Debug/netcoreapp2.1/Matrix.pdb

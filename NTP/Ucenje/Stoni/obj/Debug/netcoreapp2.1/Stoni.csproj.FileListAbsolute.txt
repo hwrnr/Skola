@@ -1,0 +1,11 @@
+/data/Skola/Programiranje/III-razred/Stoni/bin/Debug/netcoreapp2.1/Stoni.deps.json
+/data/Skola/Programiranje/III-razred/Stoni/bin/Debug/netcoreapp2.1/Stoni.runtimeconfig.json
+/data/Skola/Programiranje/III-razred/Stoni/bin/Debug/netcoreapp2.1/Stoni.runtimeconfig.dev.json
+/data/Skola/Programiranje/III-razred/Stoni/bin/Debug/netcoreapp2.1/Stoni.dll
+/data/Skola/Programiranje/III-razred/Stoni/bin/Debug/netcoreapp2.1/Stoni.pdb
+/data/Skola/Programiranje/III-razred/Stoni/obj/Debug/netcoreapp2.1/Stoni.csprojAssemblyReference.cache
+/data/Skola/Programiranje/III-razred/Stoni/obj/Debug/netcoreapp2.1/Stoni.csproj.CoreCompileInputs.cache
+/data/Skola/Programiranje/III-razred/Stoni/obj/Debug/netcoreapp2.1/Stoni.AssemblyInfoInputs.cache
+/data/Skola/Programiranje/III-razred/Stoni/obj/Debug/netcoreapp2.1/Stoni.AssemblyInfo.cs
+/data/Skola/Programiranje/III-razred/Stoni/obj/Debug/netcoreapp2.1/Stoni.dll
+/data/Skola/Programiranje/III-razred/Stoni/obj/Debug/netcoreapp2.1/Stoni.pdb

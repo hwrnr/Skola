@@ -1,0 +1,11 @@
+/data/Skola/Programiranje/III-razred/Test/bin/Debug/netcoreapp2.1/Test.deps.json
+/data/Skola/Programiranje/III-razred/Test/bin/Debug/netcoreapp2.1/Test.runtimeconfig.json
+/data/Skola/Programiranje/III-razred/Test/bin/Debug/netcoreapp2.1/Test.runtimeconfig.dev.json
+/data/Skola/Programiranje/III-razred/Test/bin/Debug/netcoreapp2.1/Test.dll
+/data/Skola/Programiranje/III-razred/Test/bin/Debug/netcoreapp2.1/Test.pdb
+/data/Skola/Programiranje/III-razred/Test/obj/Debug/netcoreapp2.1/Test.csprojAssemblyReference.cache
+/data/Skola/Programiranje/III-razred/Test/obj/Debug/netcoreapp2.1/Test.csproj.CoreCompileInputs.cache
+/data/Skola/Programiranje/III-razred/Test/obj/Debug/netcoreapp2.1/Test.AssemblyInfoInputs.cache
+/data/Skola/Programiranje/III-razred/Test/obj/Debug/netcoreapp2.1/Test.AssemblyInfo.cs
+/data/Skola/Programiranje/III-razred/Test/obj/Debug/netcoreapp2.1/Test.dll
+/data/Skola/Programiranje/III-razred/Test/obj/Debug/netcoreapp2.1/Test.pdb

@@ -1,0 +1,11 @@
+/data/Skola/Programiranje/III-razred/Duz/obj/Debug/netcoreapp2.1/Duz.csprojAssemblyReference.cache
+/data/Skola/Programiranje/III-razred/Duz/obj/Debug/netcoreapp2.1/Duz.csproj.CoreCompileInputs.cache
+/data/Skola/Programiranje/III-razred/Duz/obj/Debug/netcoreapp2.1/Duz.AssemblyInfoInputs.cache
+/data/Skola/Programiranje/III-razred/Duz/obj/Debug/netcoreapp2.1/Duz.AssemblyInfo.cs
+/data/Skola/Programiranje/III-razred/Duz/bin/Debug/netcoreapp2.1/Duz.deps.json
+/data/Skola/Programiranje/III-razred/Duz/bin/Debug/netcoreapp2.1/Duz.runtimeconfig.json
+/data/Skola/Programiranje/III-razred/Duz/bin/Debug/netcoreapp2.1/Duz.runtimeconfig.dev.json
+/data/Skola/Programiranje/III-razred/Duz/bin/Debug/netcoreapp2.1/Duz.dll
+/data/Skola/Programiranje/III-razred/Duz/bin/Debug/netcoreapp2.1/Duz.pdb
+/data/Skola/Programiranje/III-razred/Duz/obj/Debug/netcoreapp2.1/Duz.dll
+/data/Skola/Programiranje/III-razred/Duz/obj/Debug/netcoreapp2.1/Duz.pdb

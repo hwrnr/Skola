@@ -1,0 +1,11 @@
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/obj/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.csprojAssemblyReference.cache
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/obj/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.csproj.CoreCompileInputs.cache
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/obj/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.AssemblyInfoInputs.cache
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/obj/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.AssemblyInfo.cs
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/bin/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.deps.json
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/bin/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.runtimeconfig.json
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/bin/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.runtimeconfig.dev.json
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/bin/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.dll
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/bin/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.pdb
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/obj/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.dll
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/OsnovneKarakteristikeJezika/obj/Debug/netcoreapp2.1/OsnovneKarakteristikeJezika.pdb

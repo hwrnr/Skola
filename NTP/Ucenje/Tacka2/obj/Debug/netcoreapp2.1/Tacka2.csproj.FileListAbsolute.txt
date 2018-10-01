@@ -1,0 +1,11 @@
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/obj/Debug/netcoreapp2.1/Tacka2.csprojAssemblyReference.cache
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/obj/Debug/netcoreapp2.1/Tacka2.csproj.CoreCompileInputs.cache
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/obj/Debug/netcoreapp2.1/Tacka2.AssemblyInfoInputs.cache
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/obj/Debug/netcoreapp2.1/Tacka2.AssemblyInfo.cs
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/bin/Debug/netcoreapp2.1/Tacka2.deps.json
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/bin/Debug/netcoreapp2.1/Tacka2.runtimeconfig.json
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/bin/Debug/netcoreapp2.1/Tacka2.runtimeconfig.dev.json
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/bin/Debug/netcoreapp2.1/Tacka2.dll
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/bin/Debug/netcoreapp2.1/Tacka2.pdb
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/obj/Debug/netcoreapp2.1/Tacka2.dll
+/data/Skola/Programiranje/III-razred/NTP/Ucenje/Tacka2/obj/Debug/netcoreapp2.1/Tacka2.pdb
