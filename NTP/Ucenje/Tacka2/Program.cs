@@ -39,6 +39,8 @@ namespace Tacka2
             Console.WriteLine(k2.GetPovrsina());
             Console.WriteLine(k2.GetObim());
             Console.WriteLine(k2.Nacrtaj());
+            Tacka t = null;
+            Console.WriteLine("nesto: " + t);
         }
     }
 }
