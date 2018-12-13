@@ -9,7 +9,8 @@ double fRand(double fMin, double fMax)
 }
 
 double f(double x){
-  return 2 * x  - 1;
+  // return x * x + 1/x;
+  return  1 - x * x;
 }
 
 double monteKarlo(double pocetakIntervala, double krajIntervala, long long brojIteracija){
