@@ -3,50 +3,61 @@
   <head>
     <title> Naziv filma </title>
     
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 		<link href="bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="javascriptfilm.js"> </script>
   </head>
-  <body>
+  <body onload="popuniFilm()">
   <div class="row"> <div class="col-md-11">
-    <img src="film1.jpg" align="center" > <br/></br>
+    <img id="slika" align="center" > <br/></br>
   </div></div>
   </div></div><div class="row"> <div class="col-md-11">
-    <strong>Re&#382;iser:&nbsp;</strong>Yusry Abd Halim <br/>
+      <strong>Re&#382;iser:&nbsp;</strong> <p id="reziser"> </p><br/>
   </div></div><div class="row"> <div class="col-md-11">
-    <strong>Glumci: </strong> <br/>
+      <strong>Glumci: </strong> <p id="glumci"> </p> <br/>
   </div></div><div class="row"> <div class="col-md-11">
-    <strong>&#381;anr:&nbsp;</strong>Animirani <br/>
+      <strong>&#381;anr:&nbsp;</strong><p id="zanr"> </p><br/>
   </div></div><div class="row"> <div class="col-md-11">
-    <strong>Trajanje:&nbsp; </strong>  min <br/>
+    <strong>Trajanje:&nbsp; </strong> <p id="trajanje"> </p> <br/>
   </div></div><div class="row"> <div class="col-md-11">
-    <strong>Distributer:&nbsp;</strong>Blitz Film  Video doo <br/>
+    <strong>Distributer:&nbsp;</strong><br/>
   </div></div><div class="row"> <div class="col-md-11">
     <strong>Zemlja porekla:&nbsp;</strong>MY <br/>
   </div></div><div class="row"> <div class="col-md-11">
     <strong>Godina proizvodnje:&nbsp;</strong> <br/>
   </div></div><div class="row"> <div class="col-md-11">
-    <strong>Sinopsis: </strong> Brzi Brzić je mali žuti taksi koji sanja da postane glavni u svom gradu, Gasketu. Kada devojka u koju je zaljubljen biva kidnapovana, on mora da se suoči sa svojim neprijateljima u teškoj brdskoj trci. Boriće se protiv luksuznih automobila, terenaca i ogromnog kamiona sa 18 točkova, koji je vođa ove zle ekipe <br/>
-  </div></div><div class="row"> <div class="col-md-11">
-    <br/><br/>
+    <strong>Sinopsis: </strong> <p id="sinopsis"> </p> <br/>
+  </div></div><div class="row"> <div class="col-md-4">
+      <strong>Ocena: </strong> <p id="ocena"/>
+      </div> 
+      <div class="col-md-4"> 
+      <input id="oceni" type="text" size="15" > </input>
+      </div>
+      <div class="col-md-4">
+        <button type="button" onclick="dodajOcenu()">Dodaj Ocenu </button>
+      </div>
+      
+      
+      
+      
+      
+      
+      <br/><br/>
   </div></div><div class="row"> <div class="col-md-11">
     <iframe width="594" height="334" src="https://www.youtube.com/embed/dEjMeLMqegg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div></div><div class="row"> <div class="col-md-11">
     
 	  <form name="Komentar">
-      <p>Ime: <input type="text" name="Ime" id="i" size ="15"> <br/>
-		   Prezime: <input type="text" name="Prezime" id="p" size="20"><br></p>
-		<p>Komentar:<br> <textarea type="TextMessage" rows="5" cols="60"></textarea></p>	
-		<p><input type="submit"></p>
+      <p>Ime: <input type="text" id="autor"  name="autor" id="i" size ="15"> <br/>
+		   </p>
+		<p>Komentar:<br> <textarea id="sadrzaj" type="TextMessage" rows="5" cols="60"></textarea></p>	
+    <p><button type="button" onclick="addComent()"> Dodaj komentar </button></p>
     </form>
 </div></div>
-    <p> Komentari: <p/>
+    <p> Komentari: </p>
     <br/><br/>
-
-		<p>Ime: Petar<br>
-    Prezime: Petrovic<br>
-    Komentar: Bla bla bla bla<br>
-	   <input type="radio" value="no" name="Lajk">Lajk
-	   <input type="radio" value="no" name="Lajk">Dislajk
-    
+    <div id="komentari">
+     </div> 
 
 
   </body>
