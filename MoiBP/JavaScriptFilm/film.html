@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Naziv filma </title>
+    
+    <script src="jquery.min.js"></script>
+		<link href="bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="javascript.js"> </script>
+  </head>
+  <body onload="popuniFilm()">
+  <div class="row"> <div class="col-md-11">
+    <img id="slika" align="center" > <br/></br>
+  </div></div>
+  </div></div><div class="row"> <div class="col-md-11">
+      <strong>Re&#382;iser:&nbsp;</strong> <p id="reziser"> </p><br/>
+  </div></div><div class="row"> <div class="col-md-11">
+      <strong>Glumci: </strong> <p id="glumci"> </p> <br/>
+  </div></div><div class="row"> <div class="col-md-11">
+      <strong>&#381;anr:&nbsp;</strong><p id="zanr"> </p><br/>
+  </div></div><div class="row"> <div class="col-md-11">
+    <strong>Trajanje:&nbsp; </strong> <p id="trajanje"> </p> <br/>
+  </div></div><div class="row"> <div class="col-md-11">
+    <strong>Distributer:&nbsp;</strong><br/>
+  </div></div><div class="row"> <div class="col-md-11">
+    <strong>Zemlja porekla:&nbsp;</strong>MY <br/>
+  </div></div><div class="row"> <div class="col-md-11">
+    <strong>Godina proizvodnje:&nbsp;</strong> <br/>
+  </div></div><div class="row"> <div class="col-md-11">
+    <strong>Sinopsis: </strong> <p id="sinopsis"> </p> <br/>
+  </div></div><div class="row"> <div class="col-md-4">
+      <strong>Ocena: </strong> <p id="ocena"/>
+      </div> 
+      <div class="col-md-4"> 
+      <input id="oceni" type="text" size="15" > </input>
+      </div>
+      <div class="col-md-4">
+        <button type="button" onclick="dodajOcenu()">Dodaj Ocenu </button>
+      </div>
+      
+      
+      
+      
+      
+      
+      <br/><br/>
+  </div></div><div class="row"> <div class="col-md-11">
+
+  </div></div><div class="row"> <div class="col-md-11">
+    
+	  <form name="Komentar">
+      <p>Ime: <input type="text" id="autor"  name="autor" id="i" size ="15"> <br/>
+		   </p>
+		<p>Komentar:<br> <textarea id="sadrzaj" type="TextMessage" rows="5" cols="60"></textarea></p>	
+    <p><button type="button" onclick="addComent()"> Dodaj komentar </button></p>
+    </form>
+</div></div>
+    <p> Komentari: </p>
+    <br/><br/>
+    <div id="komentari">
+     </div> 
+
+
+  </body>
+</html>
