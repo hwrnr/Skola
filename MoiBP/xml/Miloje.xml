@@ -1,0 +1,45 @@
+<xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="idetifikacioniDokument">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="drzava" maxOccurs="unbounded" minOccurs="0">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name ="naziv" type="xsd:string" minOccurs="0"/>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+
+				<xsd:element name="tip" maxOccurs="unbounded" minOccurs="0">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name ="naziv" type="xsd:string" minOccurs="0"/>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+
+				<xsd:element name="licniDokument" maxOccurs="unbounded" minOccurs="0">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name ="prezime" type="xsd:string"/>
+							<xsd:element name ="ime" type="xsd:string"/>
+							<xsd:element name ="datumRodjenja" type="xsd:string"/>
+							<xsd:element name ="pol" type="xsd:string"/>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+
+				<xsd:element name="izdavac" maxOccurs="unbounded" minOccurs="0">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name ="registracioniBroj" type="xsd:int"/>
+							<xsd:element name ="datumIzdavanja" type="xsd:string"/>
+							<xsd:element name ="vaziDo" type="xsd:string"/>
+							<xsd:element name ="dokumentIzdaje" type="xsd:string"/>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

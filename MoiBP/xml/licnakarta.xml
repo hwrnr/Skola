@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<IdentifikacioniDokument>
+    <Drzava>
+        <naziv jezik="srpski">Republika Srbija</naziv>
+        <naziv jezik="engleski">Republic of Serbia</naziv>
+    </Drzava>
+    
+    <Tip>
+        <naziv jezik="srpski">Lična karta</naziv>
+        <naziv jezik="engleski">Identity Card</naziv>
+    </Tip>
+    <LicniPodaci>
+        <Prezime>Test</Prezime>
+        <Ime>Milica</Ime>
+        <DatumRodjenja> 04.02.1986.</DatumRodjenja>
+        <Pol>Zenski</Pol>
+    </LicniPodaci>
+    <Izdavac>
+        <RedniBroj>84864542648</RedniBroj>
+        <DatumIzdavanja>01.01.2008.</DatumIzdavanja>
+        <VaziDo format="dd.MM.yyyy.">01.01.2018.</VaziDo>
+        <DokumentIzdaje>PU u Novom Sadu</DokumentIzdaje>
+    </Izdavac>
+</IdentifikacioniDokument>
+            

@@ -1,0 +1,65 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="IdentifikacioniDokument" type="IdentifikacioniDokumentType"/>
+  <xs:complexType name="nazivType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="jezik" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="DrzavaType">
+    <xs:sequence>
+      <xs:element type="nazivType" name="naziv" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="TipType">
+    <xs:sequence>
+      <xs:element type="nazivType" name="naziv" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DatumRodjenjaType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="format"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="LicniPodaciType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Prezime"/>
+      <xs:element type="xs:string" name="Ime"/>
+      <xs:element type="DatumRodjenjaType" name="DatumRodjenja"/>
+      <xs:element type="xs:string" name="Pol"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DatumIzdavanjaType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="format"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="VaziDoType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="format"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="IzdavacType">
+    <xs:sequence>
+      <xs:element type="xs:long" name="RedniBroj"/>
+      <xs:element type="DatumIzdavanjaType" name="DatumIzdavanja"/>
+      <xs:element type="VaziDoType" name="VaziDo"/>
+      <xs:element type="xs:string" name="DokumentIzdaje"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="IdentifikacioniDokumentType">
+    <xs:sequence>
+      <xs:element type="DrzavaType" name="Drzava"/>
+      <xs:element type="TipType" name="Tip"/>
+      <xs:element type="LicniPodaciType" name="LicniPodaci"/>
+      <xs:element type="IzdavacType" name="Izdavac"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
