@@ -1,0 +1,56 @@
+[
+  {
+    "ime" : "Brzi Brzic", 
+    "slika" : "brzi.jpg",
+    "reziser" : "Yusry Abd Halim",
+    "zanr" : "Animirani",
+    "trajanje" : "90min",
+    "ocene" : [1, 2, 3],
+    "opis" : "Brzi Brzić je mali žuti taksi koji sanja da postane glavni u svom gradu, Gasketu. Kada devojka u koju je zaljubljen biva kidnapovana, on mora da se suoči sa svojim neprijateljima u teškoj brdskoj trci. Boriće se protiv luksuznih automobila, terenaca i ogromnog kamiona sa 18 točkova, koji je vođa ove zle ekipe",
+    "komentari" :[ {
+        "autor" : "Petar Petrovic",
+        "tekst" : "Odlican crtic",
+        "lajkovi" : 122,
+        "dislajkovi" : 11,
+        }
+    ]
+  },
+    {
+    "ime" : "Brzi Brzic", 
+    "slika" : "brzi.jpg",
+    "reziser" : "Yusry Abd Halim",
+    "zanr" : "Animirani",
+    "trajanje" : "90min",
+    "ocene" : [1, 2, 3],
+    "opis" : "Brzi Brzić je mali žuti taksi koji sanja da postane glavni u svom gradu, Gasketu. Kada devojka u koju je zaljubljen biva kidnapovana, on mora da se suoči sa svojim neprijateljima u teškoj brdskoj trci. Boriće se protiv luksuznih automobila, terenaca i ogromnog kamiona sa 18 točkova, koji je vođa ove zle ekipe",
+    "komentari" :[ {
+        "autor" : "Petar Petrovic",
+        "tekst" : "Odlican crtic",
+        "lajkovi" : 122,
+        "dislajkovi" : 11,
+        }
+    ]
+  },
+    {
+    "ime" : "Brzi Brzic", 
+    "slika" : "brzi.jpg",
+    "reziser" : "Yusry Abd Halim",
+    "zanr" : "Animirani",
+    "trajanje" : "90min",
+    "ocene" : [1, 2, 3],
+    "opis" : "Brzi Brzić je mali žuti taksi koji sanja da postane glavni u svom gradu, Gasketu. Kada devojka u koju je zaljubljen biva kidnapovana, on mora da se suoči sa svojim neprijateljima u teškoj brdskoj trci. Boriće se protiv luksuznih automobila, terenaca i ogromnog kamiona sa 18 točkova, koji je vođa ove zle ekipe",
+    "komentari" :[ {
+        "autor" : "Petar Petrovic",
+        "tekst" : "Odlican crtic",
+        "lajkovi" : 122,
+        "dislajkovi" : 11,
+        },
+        {
+        "autor" : "Petar Petrovic",
+        "tekst" : "Odlican crtic",
+        "lajkovi" : 122,
+        "dislajkovi" : 11,
+        }
+    ]
+  }
+]

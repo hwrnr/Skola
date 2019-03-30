@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "ime": {
+          "type": "string"
+        },
+        "slika": {
+          "type": "string"
+        },
+        "reziser": {
+          "type": "string"
+        },
+        "zanr": {
+          "type": "string"
+        },
+        "trajanje": {
+          "type": "string"
+        },
+        "ocene": {
+          "type": "array",
+          "items": [
+            {
+              "type": "integer"
+            }
+          ]
+        },
+        "opis": {
+          "type": "string"
+        },
+        "komentari": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "autor": {
+                  "type": "string"
+                },
+                "tekst": {
+                  "type": "string"
+                },
+                "lajkovi": {
+                  "type": "integer"
+                },
+                "dislajkovi": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "autor",
+                "tekst",
+                "lajkovi",
+                "dislajkovi"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "ime",
+        "slika",
+        "reziser",
+        "zanr",
+        "trajanje",
+        "ocene",
+        "opis",
+        "komentari"
+      ]
+    }
+  ]
+}

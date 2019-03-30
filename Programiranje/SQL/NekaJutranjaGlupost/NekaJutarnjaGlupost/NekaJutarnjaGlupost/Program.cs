@@ -2,6 +2,8 @@
 using System.Data;
 using System.Data.SqlClient;
 
+//zadatak 3WC
+
 namespace NekaJutarnjaGlupost {
     class MainClass {
         public static void Main(string[] args) {
@@ -33,5 +35,36 @@ namespace NekaJutarnjaGlupost {
                 }
             }
         }
+
+        /*public static double Zbir(int n) {
+            double suma = 0;
+            for (int i = 0; i < n; ++i) {
+                suma += i + 1;
+            }
+            return suma;
+        }
+
+        public static double Faktorijal(int n) {
+            double rez = 1;
+            for (int i = 0; i < n; ++i) {
+                rez *= i + 1;
+            }
+            return rez;
+        }
+
+        public static void Main() {
+            int n = int.Parse(Console.ReadLine());
+            double suma = 1;
+            for (int i = 2; i < n + 1; ++i) {
+                double tmp = Zbir(i) / Faktorijal(i - 1);
+                if (i % 2 == 0) {
+                    suma -= tmp;
+                }
+                else {
+                    suma += tmp;
+                }
+            }
+            Console.WriteLine(suma);
+        }*/
     }
 }

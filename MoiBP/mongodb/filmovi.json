@@ -1,0 +1,61 @@
+[
+  {
+    "name" : "Brzi Brzic", "img" : "film1.jpg", 
+    "reziser" : "Yusry Abd Halim",
+    "zanr" : "Animirani",
+    "trajanje" : "90min",
+    "ocene" : [1, 2, 3, 4, 5],
+    "sinopsis" : "Brzi Brzić je mali žuti taksi koji sanja da postane glavni u svom gradu, Gasketu. Kada devojka u koju je zaljubljen biva kidnapovana, on mora da se suoči sa svojim neprijateljima u teškoj brdskoj trci. Boriće se protiv luksuznih automobila, terenaca i ogromnog kamiona sa 18 točkova, koji je vođa ove zle ekipe",
+    "comments" : [
+    {
+      "id" : "123",
+      "autor" : "Petar Petrovic",
+      "tekst" : "Veoma dobar film, sve preporuke",
+      "lajkovi" : 12,
+      "dislajkovi" : 1
+    }
+    ]
+  },
+
+  {
+    "name" : "Park Uzasa", "img" : "film2.jpg",
+    "reziser" : "Yusry Abd Halim",
+    "zanr" : "Animirani",
+    "trajanje" : "90min",
+    "ocene" : [1, 2, 3, 4, 9, 1],
+    "sinopsis" : "Brzi Brzić je mali žuti taksi koji sanja da postane glavni u svom gradu, Gasketu. Kada devojka u koju je zaljubljen biva kidnapovana, on mora da se suoči sa svojim neprijateljima u teškoj brdskoj trci. Boriće se protiv luksuznih automobila, terenaca i ogromnog kamiona sa 18 točkova, koji je vođa ove zle ekipe",
+    "comments" : [
+    {
+      "id" : "123",
+      "autor" : "Petar Petrovic",
+      "tekst" : "Veoma dobar film, sve preporuke",
+      "lajkovi" : 12,
+      "dislajkovi" : 1
+    }
+    ]
+  },
+  {
+    "name" : "Zvezda je rodjena", "img" : "film3.jpg",
+    "reziser" : "Yusry Abd Halim",
+    "zanr" : "Animirani",
+    "trajanje" : "90min",
+    "ocene" : [5, 4, 5, 4, 5, 5, 5, 3],
+    "sinopsis" : "Brzi Brzić je mali žuti taksi koji sanja da postane glavni u svom gradu, Gasketu. Kada devojka u koju je zaljubljen biva kidnapovana, on mora da se suoči sa svojim neprijateljima u teškoj brdskoj trci. Boriće se protiv luksuznih automobila, terenaca i ogromnog kamiona sa 18 točkova, koji je vođa ove zle ekipe",
+    "comments" : [
+    {
+      "id" : "123",
+      "autor" : "Petar Petrovic",
+      "tekst" : "Veoma dobar film, sve preporuke",
+      "lajkovi" : 12,
+      "dislajkovi" : 1
+    },
+    {
+      "id" : "122",
+      "autor" : "Petar Petrovic",
+      "tekst" : "Veoma dobar film, sve preporuke",
+      "lajkovi" : 12,
+      "dislajkovi" : 1
+    }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "ime" : "Rocky", 
+    "slika" : "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Rocky_balboa.jpeg/200px-Rocky_balboa.jpeg",
+    "reziser" : "Sylvester Stallone",
+    "zanr" : "Sportski",
+    "trajanje" : "121min",
+    "ocene" : [4, 2, 5, 4, 5, 5, 2],
+    "opis" : "Rocky Balboa je neobrazovan, ali ljubazan boksač i utjerivač duga iz Philadelphije, koji želi ostvariti američki san i postati uspješan. Jednog dana ponuđena mu je životna prilika: da se natječe u teškoj kategoriji protiv svjetskog prvaka Apolla Creeda, nakon što se ozlijedio boksač, koji je prvotno trebao nastupiti.",
+    "komentari" :[ {
+        "autor" : "Milovan Ninkov",
+        "tekst" : "Odlican film, poistovecujem se sa glavnim likom",
+        "lajkovi" : 173,
+        "dislajkovi" : 15
+        }
+    ]
+  },
+    {
+    "ime" : "Home Alone", 
+    "slika" : "https://is5-ssl.mzstatic.com/image/thumb/Video2/v4/dc/7f/44/dc7f4481-80b8-71d1-7b26-b34f176b9910/pr_source.lsr/268x0w.png",
+    "reziser" : "Chris Columbus",
+    "zanr" : "Komedija",
+    "trajanje" : "94min",
+    "ocene" : [5, 5, 4, 4, 3, 5, 4],
+    "opis" : "Tema filma je komična priča o osmogodišnjaku, Kevinu Mekalisteru. kojeg roditelji zaboravljaju u kući i odlaze u Pariz ne bi li kod rođaka proslavili božićne praznike. Ostavljen sam u bogatom kvartu postaje na prvi pogled laka meta Mokrih bandita, amaterskih provalnika, međutim ispostaviće se da Kevin i nije baš laka meta.",
+    "komentari" :[ {
+        "autor" : "Milos Todorov",
+        "tekst" : "Veoma zabavan film za celu porodicu",
+        "lajkovi" : 98,
+        "dislajkovi" : 7
+        },
+		{
+        "autor" : "Petar Markovic",
+        "tekst" : "Film je nezanimljiv",
+        "lajkovi" : 2,
+        "dislajkovi" : 28
+        }
+    ]
+  },
+    {
+    "ime" : "Norbit", 
+    "slika" : "https://i.pinimg.com/originals/d7/9b/54/d79b54e2c6526fabd611ca38868c2e0b.jpg",
+    "reziser" : "Brian Robbins",
+    "zanr" : "Komedija",
+    "trajanje" : "108",
+    "ocene" : [3, 2, 4, 5, 2],
+    "opis" : "Norbit je normalan čovjek koji nakon što je bio posvojen od Mr Wonga završava u braku s ogromno debelom ženom Rasputiom. Norbitova ljubav iz djetinjstva Kate Thomas se vraća u grad u namjeri da kupi sirotište. To se njemu učini kao prilika da ponovno bude s Kate sve dok ne otkrije da je ona zaručena za Deiona Hugesa. Ali Norbit ne želi odustati od nje iako se istovremeno i trudi da preživi u suživotu s Rasputiom a i čini se kako Deion ima nešto što bi htio zadržati kao tajnu.",
+    "komentari" :[ {
+        "autor" : "Marko Milicic",
+        "tekst" : "Jedan od zabavnijih filmova koje sam pogledao",
+        "lajkovi" : 122,
+        "dislajkovi" : 7
+        },
+        {
+        "autor" : "Danilo Mirkovic",
+        "tekst" : "Film mi se uopste ne svidja",
+        "lajkovi" : 0,
+        "dislajkovi" : 18
+        }
+    ]
+  }
+]

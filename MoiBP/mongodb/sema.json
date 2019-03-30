@@ -1,0 +1,82 @@
+
+
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "img": {
+          "type": "string"
+        },
+        "reziser": {
+          "type": "string"
+        },
+        "zanr": {
+          "type": "string"
+        },
+        "trajanje": {
+          "type": "string"
+        },
+        "ocene": {
+          "type": "array",
+          "items": [
+            {
+              "type": "integer"
+            }
+          ]
+        },
+        "sinopsis": {
+          "type": "string"
+        },
+        "comments": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "autor": {
+                  "type": "string"
+                },
+                "tekst": {
+                  "type": "string"
+                },
+                "lajkovi": {
+                  "type": "integer"
+                },
+                "dislajkovi": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "id",
+                "autor",
+                "tekst",
+                "lajkovi",
+                "dislajkovi"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "name",
+        "img",
+        "reziser",
+        "zanr",
+        "trajanje",
+        "ocene",
+        "sinopsis",
+        "comments"
+      ]
+    },
+  ]
+}
+
